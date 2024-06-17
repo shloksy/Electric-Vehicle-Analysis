@@ -22,3 +22,4 @@ This jupyter notebook tool uses data from every production electric vehicle to v
 This can be run in Jupyter Notebook which will require installing Anaconda. You can also find online Jupyter Notebook compilers
 
 ## Screenshots
+![EV Manufacturer Count](Screenshots/freq.png)
