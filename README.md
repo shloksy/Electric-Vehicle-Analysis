@@ -23,3 +23,16 @@ This can be run in Jupyter Notebook which will require installing Anaconda. You 
 
 ## Screenshots
 ![EV Manufacturer Count](Screenshots/freq.png)
+---
+![Seat Count](Screenshots/seats.png)
+---
+![Drivetrain Type Count](Screenshots/drivetrain.png)
+---
+
+___
+
+___
+![BestInClass1](Screenshots/leaders1.png)
+---
+![BestInClass2](Screenshots/leaders2.png)
+---
